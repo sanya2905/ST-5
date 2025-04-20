@@ -28,6 +28,7 @@ public class SqrtTest {
         Sqrt sqrt = new Sqrt(1);
         assertTrue(sqrt.good(8.99999999999999, 81));
     }
+
     @Test
     public void good3() {
         Sqrt sqrt = new Sqrt(1);

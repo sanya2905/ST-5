@@ -9,4 +9,5 @@ public class App
         double result=sqrt.calc();
         System.out.println("Sqrt of " + val + " = " + result);
     }
+
 }
