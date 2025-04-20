@@ -4,7 +4,6 @@ public class Sqrt
 {
     double delta=0.00000001;
     double arg;
-
     public Sqrt(double arg) {
         this.arg=arg;
     }
